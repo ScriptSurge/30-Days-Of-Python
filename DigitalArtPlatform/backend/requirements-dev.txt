@@ -1,0 +1,15 @@
+# Development dependencies
+
+# Testing
+pytest-mock==3.12.0
+faker==20.1.0
+factory-boy==3.3.0
+
+# Debugging
+ipdb==0.13.13
+ipython==8.18.1
+
+# Code quality
+pytest-flake8==1.1.1
+pytest-mypy==0.10.3
+coverage[toml]==7.3.2
